@@ -1,210 +1,189 @@
- {
-  "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
-  "logo": "https://files.catbox.moe/jecbfo.jpg",
-  "keywords": ["DARKZONE-MD"],
+{
+  "name": "𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈",
+  "description": "Javascript WhatsApp bot made by ☬ 👑 𝕂𝕀ℕ𝔾 ℝ𝔼𝔻 👑 ☬ 𓃵🔥 - 𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈",
+  "logo": "https://files.catbox.moe/1k4htj.jpg",
+  "keywords": ["𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈", "whatsapp-bot", "redtech"],
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Your unique bot session ID (starts with REDTECH~). Get from /code",
       "required": true,
-      "value": ""
-    },  
-    
-    "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "type": "string"
+    },
+    "SUDO": {
+      "description": "The Super-Admin phone number with country code (e.g. 254100969922)",
       "required": false,
-      "value": "𝐸𝑅𝐹𝒜𝒩"
-    }, 
-      
+      "type": "string"
+    },
+    "OWNERS": {
+      "description": "Additional admin numbers separated by commas",
+      "required": false,
+      "type": "string"
+    },
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": "Bot command prefix",
       "required": false,
+      "type": "string",
       "value": "."
-    }, 
-      
-    "ANTI_CALL": {
-      "description": "on anti call anyone not disturb you",
-      "required": false,
-      "value": "false"
     },
-      
-    "AUTO_DOWNLOADER": {
-      "description": "AUTO DOWNLOADER . TIK,FB,YT ,ETC ",
-      "required": false,
-      "value": "false"
-    },
-    
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "Bot mode public/private/inbox/group",
       "required": false,
+      "type": "string",
       "value": "public"
     },
-
+    "STICKER_NAME": {
+      "description": "Sticker pack name",
+      "required": false,
+      "value": "☬ 👑 𝕂𝕀ℕ𝔾 ℝ𝔼𝔻 👑 ☬ 𓃵🔥 - 𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈"
+    },
+    "ANTI_CALL": {
+      "description": "Block calls",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_DOWNLOADER": {
+      "description": "Auto download TikTok, FB, YT etc",
+      "required": false,
+      "value": "false"
+    },
     "ANTI_DELETE": {
-      "description": "set true for show deleted messages.",
+      "description": "Show deleted messages",
       "required": false,
-      "value": "true"  
+      "value": "true"
     },
-    
     "ALWAYS_ONLINE": {
-      "description": "Make it true if want always online.",
+      "description": "Always online",
       "required": false,
-      "value": "false"  
-    },    
-   
+      "value": "false"
+    },
     "AUTO_REPLY": {
-      "description": "Make it true if you want automatic reply.",
+      "description": "Automatic reply",
       "required": false,
       "value": "false"
-    }, 
-
+    },
     "AUTO_STICKER": {
-      "description": "Make it true if you want automatic sticker.",
+      "description": "Automatic sticker",
       "required": false,
       "value": "false"
-    }, 
-
+    },
     "AUTO_STATUS_SEEN": {
-      "description": "Make it true for automatic status seen.",
-      "required": true,
+      "description": "Auto status seen",
+      "required": false,
       "value": "true"
-    }, 
-
+    },
     "AUTO_STATUS_REACT": {
-      "description": "make it true for automatic status reaction or like.",
-      "required": true,
+      "description": "Auto status reaction",
+      "required": false,
       "value": "false"
-    }, 
-
+    },
     "AUTO_STATUS_REPLY": {
-      "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "description": "Auto reply on status",
+      "required": false,
       "value": "false"
-    }, 
-
+    },
     "AUTO_STATUS_MSG": {
-      "description": "Type custom message on status reply",
-      "required": true,
-      "value": "*SEEN YOUR STATUS BY DARKZONE-MD ❤️*"
-    }, 
-    
+      "description": "Custom status reply message",
+      "required": false,
+      "value": "*SEEN YOUR STATUS BY 𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈 ❤️*"
+    },
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "Bot Owner Name",
       "required": false,
-      "value": "ERFAN"
-    }, 
-
+      "value": "☬ 👑 𝕂𝕀ℕ𝔾 ℝ𝔼𝔻 👑 ☬"
+    },
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "Owner number",
       "required": false,
-      "value": "923306137477"
-    }, 
-
+      "value": "254100969922"
+    },
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "Bot name",
       "required": false,
-      "value": "DARKZONE-MD"
-    }, 
-
+      "value": "𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈"
+    },
     "ANTI_LINK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
+      "description": "Auto remove group links",
+      "required": false,
       "value": "true"
     },
-
     "ANTI_LINK_KICK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
+      "description": "Kick on link",
+      "required": false,
       "value": "false"
     },
-    
     "ANTI_BAD": {
-      "description": "Make it true if you want bot auto delete bad words.",
+      "description": "Auto delete bad words",
       "required": false,
       "value": "false"
     },
-
     "MENTION_REPLY": {
-      "description": "make it true if want mention reply if someone menetion you.",
+      "description": "Mention reply",
       "required": false,
       "value": "false"
     },
-    
     "MENU_IMAGE_URL": {
-      "description": "add url for mention reply and menu if want.",
+      "description": "Menu image URL",
       "required": false,
-      "value": "https://i.ibb.co/Sw4pzTWC/IMG-20260124-WA0728.jpg"
+      "value": "https://files.catbox.moe/1k4htj.jpg"
     },
-    
     "DESCRIPTION": {
-      "description": "add caption for menu and other",
+      "description": "Menu caption",
       "required": false,
-      "value": "*CREATER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
+      "value": "*CREATER ☬ 👑 𝕂𝕀ℕ𝔾 ℝ𝔼𝔻 👑 ☬ 𓃵🔥 - 𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈*"
     },
-
     "DELETE_LINKS": {
-      "description": "remove links from group automatically without removing member",
+      "description": "Remove links without kicking",
       "required": false,
       "value": "false"
     },
-    
     "AUTO_RECORDING": {
-      "description": "Make it true if you want auto recoding.",
+      "description": "Auto recording",
       "required": false,
       "value": "false"
     },
-
     "AUTO_TYPING": {
-      "description": "Make it true if you want auto typing.",
+      "description": "Auto typing",
       "required": false,
       "value": "false"
     },
-
     "AUTO_REACT": {
-      "description": "Make it true if you want react on every message.",
+      "description": "React on every message with random keyboard emoji",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
-    
-    "CUSTOM_REACT": {
-      "description": "Make it true if you want custom reactions.",
+    "REACT_EMOJIS": {
+      "description": "Reaction emojis (comma-separated)",
       "required": false,
-      "value": "false"
-    }, 
-    
-    "CUSTOM_REACT_EMOJIS": {
-      "description": "put here custom react react emojis.",
+      "value": "❤️,🔥,👍,😍,😂,😮,😎,🥰,👋,🤝,💯,✨,⭐,🎉,🤗,😊,🙌,💪,👏,✅,🎈,🎊,🏆,⚡,💫,👌,🤙,💖,💕,💗,👑,💎,🌟,🎯,🎨,🎭,🎪,🎢,🎡,🎠"
+    },
+    "OWNER_EMOJIS": {
+      "description": "Owner reaction emojis (comma-separated)",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
-    }, 
-    
+      "value": "👑,💎,⭐,✨,🔥,💯,✅,🎉,🤖,⚡,💫,🌟,🏆,👾,🚀,💪,🎯,🔱,♾️,⚜️"
+    },
     "ANTI_DEL_PATH": {
-      "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
+      "description": "Deleted message resend path - same or inbox",
       "required": false,
       "value": "inbox"
-    }, 
-
+    },
     "ADMIN_EVENTS": {
-      "description": "make it true if want know who promote or demote a member .",
+      "description": "Notify promote/demote",
       "required": false,
       "value": "false"
     },
-
     "WELCOME": {
-      "description": "make it true if want goodbye and welcome message in groups.",
+      "description": "Welcome/goodbye in groups",
       "required": false,
       "value": "false"
     },
-
     "READ_MESSAGE": {
-      "description": "Make it true if you want bot read your all sms just now.",
+      "description": "Read all messages",
       "required": false,
       "value": "false"
     }
   },
-
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
