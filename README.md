@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
-    DARKZONE-MD WHATSAPP BOT
+    𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈 WHATSAPP BOT
   </h1>
 </div>
 
@@ -62,7 +62,7 @@
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
 <a href="https://github.com/darkzonemd/DARKZONE-MD/fork">
-  <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+  <img title="𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
@@ -87,21 +87,21 @@
 
 ---
 
-### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="center">𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈 DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> on any hosting service of your choice.</p>
+<p align="center">Deploy your <strong>𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈 Bot</strong> on any hosting service of your choice.</p>
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/darkzonemd/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/darkzonemd/𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
        <td><a href="https://erfan-vps-site-def3a7aba559.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=darkzonemd/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=darkzonemd/𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/darkzonemd/𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -133,7 +133,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/darkzonemd/𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -175,7 +175,7 @@
 ## 📞 Contact & Support
 
 ### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+<a href='https://wa.me/+254100969922?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝐑𝐄𝐃𝐓𝐄𝐂𝐇-𝐀𝐈+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
@@ -183,7 +183,7 @@
 <a href="https://chat.whatsapp.com/IcV9YW0LOZbHFKOPZ59GBb?mode=gi_t">
   <img src="https://img.shields.io/badge/Join_Group-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
 </a>
-<a href="https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J">
+<a href="https://whatsapp.com/channel/0029Vb9AwScF6sn47ClubG1Z">
   <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
 </a>
 
